@@ -28,7 +28,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [X] Name three life-cycle methods and their purposes.
 
-    The three life-cycle methods are Mounting, Updating and Unmounting. The Mounting phase is when a component is built, the updating phase refers to when the components are revised in order to meet that the developer is trying to achieve. and lastly, Unmounting defines when a component is removed from the screen.
+    The three life-cycle methods are Mounting, Updating and Unmounting. The Mounting phase is when a component is built, the updating phase refers to when the components are revised in order to meet what the developer is trying to achieve. and lastly, Unmounting defines when a component is removed from the screen.
 
 - [X] What is the purpose of a custom hook?
 
@@ -42,22 +42,22 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
-- [ ] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
-- [ ] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
-- [ ] Run `yarn` to download dependencies.
-- [ ] Run the server using `yarn start` or `node server.js`.
-- [ ] In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
-- [ ] Still inside the `client` folder run `yarn start` to run the client application.
-- [ ] Implement the project on this Branch, **committing progress & changes often.**
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Add TL as collaborator on Github.
+- [X] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
+- [X] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
+- [X] Run `yarn` to download dependencies.
+- [X] Run the server using `yarn start` or `node server.js`.
+- [X] In a separate terminal cd into the `client` folder and run `yarn install` to download dependencies.
+- [X] Still inside the `client` folder run `yarn start` to run the client application.
+- [X] Implement the project on this Branch, **committing progress & changes often.**
+- [X] Push commits: `git push origin <firstName-lastName>`.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request.
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [X] Add your Project Manager as a Reviewer on the Pull-request.
+- [X] PM then will count the HW as done by merging the branch back into master.
 
 ## Minimum Viable Product
 
